@@ -91,9 +91,6 @@ Manage classes and projects
   
   ### **Hacker Rank**: https://www.hackerrank.com/
   
-  
-  
-
 
 
 ## Books
@@ -119,21 +116,14 @@ Manage classes and projects
 
 
 ## MOOC
+
+### **Carnegie Mellon University**
+Courses through CMU
+>https://oli.cmu.edu/students/
+
 ### **Code Academy**
 Code learning platform
 >https://www.codecademy.com/catalog/subject/all
-
-### **Cybrary**
-IT Learning Platform
->https://www.cybrary.it/
-
-### **Geek University**
-Free online computer courses
->https://geek-university.com/
-
-### **edX**
-Free online courses
->https://www.edx.org/
 
 ### **Coursera**
 Free online courses
@@ -141,28 +131,37 @@ Free online courses
 
 [Coursera Partners](https://www.coursera.org/about/partners?siteID=TnL5HPStwNw-POK76AYE_SfZYuZLYLOOqQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=TnL5HPStwNw) - Participating organizations
 
-### **Instructables**
-Learn how to make things
->https://www.instructables.com/
+### **Cybrary**
+IT Learning Platform
+>https://www.cybrary.it/
+
+### **edX**
+Free online courses
+>https://www.edx.org/
 
 ### **FutureLearn**
 Free online courses from top universities
 >https://www.futurelearn.com/courses
 
+### **Geek University**
+Free online computer courses
+>https://geek-university.com/
+
+### **Harvard University**
+Free online courses through Harvard University
+>https://online-learning.harvard.edu/
+
+### **Instructables**
+Learn how to make things
+>https://www.instructables.com/
+
 ### **Khan Academy**
 Free online courses
 >https://www.khanacademy.org/
 
-### **Udacity**
->https://www.udacity.com/
-
-### **Upcase by Thoughtbot**
+### **MIT OpenCourseWare**
 Free online courses
->https://thoughtbot.com/upcase
-
-### **Carnegie Mellon University**
-Courses through CMU
->https://oli.cmu.edu/students/
+>https://ocw.mit.edu/index.htm
 
 ### **Stanford University**
 Courses through Stanford University
@@ -172,13 +171,12 @@ Courses through Stanford University
 Free online courses
 >https://www.open.edu/openlearn/
 
-### **Harvard University**
-Free online courses through Harvard University
->https://online-learning.harvard.edu/
+### **Udacity**
+>https://www.udacity.com/
 
-### **MIT OpenCourseWare**
+### **Upcase by Thoughtbot**
 Free online courses
->https://ocw.mit.edu/index.htm
+>https://thoughtbot.com/upcase
 
 
 
