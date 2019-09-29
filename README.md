@@ -92,6 +92,12 @@ Manage classes and projects
 
 
 
+## Writing
+
+[EasyBib](http://www.easybib.com/) - Bibliography creator
+
+
+
 ## MOOC
 ### **Code Academy**
 Code learning platform
@@ -134,9 +140,21 @@ Free online courses
 Free online courses
 >https://thoughtbot.com/upcase
 
+### **Carnegie Mellon University**
+Courses through CMU
+>https://oli.cmu.edu/students/
 
+### **Stanford University**
+Courses through Stanford University
+>https://online.stanford.edu/
 
+### **The Open University**
+Free online courses
+>https://www.open.edu/openlearn/
 
+### **Harvard University**
+Free online courses through Harvard University
+>https://online-learning.harvard.edu/
 
 
 ## Misc
@@ -151,4 +169,6 @@ Free online courses
 [Name Cheap](https://nc.me/) - One free domain for a website
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?tab=tab-learn-for-free) - Learn Microsoft services
+
+[University Courses](https://www.freecodecamp.org/news/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57/) - List of online courses by universities
 
