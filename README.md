@@ -62,3 +62,18 @@ Software Integrated Development Environments (IDE)
 - Maya
 - ***And much more***
 
+### **Amazon Web Services:**
+>https://aws.amazon.com/education/awseducate/
+
+
+
+## Books
+
+[Automate the Boring Stuff](https://automatetheboringstuff.com/) - Mostly Python related
+
+[Goal Kicker](https://goalkicker.com/) - Dozens of different programming languages
+
+
+
+## Misc
+[Open Oregon Educational Resources](https://openoregon.org/resources/) - Several classes and materials
