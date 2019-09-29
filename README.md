@@ -102,6 +102,8 @@ Manage classes and projects
 
 [Goal Kicker](https://goalkicker.com/) - Dozens of different programming languages
 
+[Clean Code](https://archive.org/details/CleanCode_201607) - Recommended book by many.  
+
 
 
 ## Math
