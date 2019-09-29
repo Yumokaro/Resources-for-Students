@@ -57,6 +57,8 @@ Software Integrated Development Environments (IDE)
 Student Developer Pack
 >https://education.github.com/
 
+[A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) - GitHub git tutorial
+
 ### **AutoDesk:**
 >https://www.autodesk.com/education/free-software/featured
 
@@ -69,10 +71,6 @@ Student Developer Pack
 ### **Amazon Web Services:**
 Access to the AWS cloud, free training, and collaboration resources
 >https://aws.amazon.com/education/awseducate/
-
-### **Namecheap**
-One free domain for a website
->https://nc.me/
 
 ### **BaseCamp**
 Manage classes and projects
@@ -94,6 +92,53 @@ Manage classes and projects
 
 
 
+## MOOC
+### **Code Academy**
+Code learning platform
+>https://www.codecademy.com/catalog/subject/all
+
+### **Cybrary**
+IT Learning Platform
+>https://www.cybrary.it/
+
+### **Geek University**
+Free online computer courses
+>https://geek-university.com/
+
+### **edX**
+Free online courses
+>https://www.edx.org/
+
+### **Coursera**
+Free online courses
+>https://www.coursera.org/
+
+[Coursera Partners](https://www.coursera.org/about/partners?siteID=TnL5HPStwNw-POK76AYE_SfZYuZLYLOOqQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=TnL5HPStwNw) - Participating organizations
+
+### **Instructables**
+Learn how to make things
+>https://www.instructables.com/
+
+### **FutureLearn**
+Free online courses from top universities
+>https://www.futurelearn.com/courses
+
+### **Khan Academy**
+Free online courses
+>https://www.khanacademy.org/
+
+### **Udacity**
+>https://www.udacity.com/
+
+### **Upcase by Thoughtbot**
+Free online courses
+>https://thoughtbot.com/upcase
+
+
+
+
+
+
 ## Misc
 [Open Oregon Educational Resources](https://openoregon.org/resources/) - Several classes and materials
 
@@ -102,3 +147,8 @@ Manage classes and projects
 [Reddit: Learn Programming](https://www.reddit.com/r/learnprogramming/) - learnprogramming subreddit
 
 [Reddit: Network Security Students](https://www.reddit.com/r/netsecstudents/) - netsecstudents subreddit
+
+[Name Cheap](https://nc.me/) - One free domain for a website
+
+[Microsoft Learn](https://docs.microsoft.com/en-us/learn/?tab=tab-learn-for-free) - Learn Microsoft services
+
