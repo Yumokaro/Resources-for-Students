@@ -59,6 +59,10 @@ Student Developer Pack
 
 [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) - GitHub git tutorial
 
+### **BaseCamp**
+Manage classes and projects
+>https://basecamp.com/discounts
+
 ### **AutoDesk:**
 >https://www.autodesk.com/education/free-software/featured
 
@@ -72,25 +76,21 @@ Student Developer Pack
 Access to the AWS cloud, free training, and collaboration resources
 >https://aws.amazon.com/education/awseducate/
 
-### **BaseCamp**
-Manage classes and projects
->https://basecamp.com/discounts
-
 
 
 ## Coding
   ### **Code Wars**: https://www.codewars.com/
   
   ### **Free Code Camp**: https://www.freecodecamp.org/
-  
-  ### **W3Schools**: https://www.w3schools.com/default.asp
-  
-  ### **Mozilla Developer Network**: https://developer.mozilla.org/en-US/
-  
-  ### **The Odin Project**: https://www.theodinproject.com/
-  
+      
   ### **Hacker Rank**: https://www.hackerrank.com/
   
+  ### **Mozilla Developer Network**: https://developer.mozilla.org/en-US/
+    
+  ### **The Odin Project**: https://www.theodinproject.com/
+
+  ### **W3Schools**: https://www.w3schools.com/default.asp
+
 
 
 ## Books
@@ -99,7 +99,7 @@ Manage classes and projects
 
 [Goal Kicker](https://goalkicker.com/) - Dozens of different programming languages
 
-[Clean Code](https://archive.org/details/CleanCode_201607) - Recommended book by many.  
+[Clean Code](https://archive.org/details/CleanCode_201607) - Recommended book by many
 
 
 
