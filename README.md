@@ -3,16 +3,31 @@
 ## School
   [**CS Programs of Study**](https://www.linnbenton.edu/future-students/programs-of-study/science-engineering-and-math/computer-science.php#/) - View an interactive coursemap related to a CS Major
 
-  [**Schedule of Classes**](https://www.linnbenton.edu/schedule-of-classes/) - View classes for the current quarter *and* how full they may be.
+  [**Schedule of Classes**](https://www.linnbenton.edu/schedule-of-classes/) - View classes for the current quarter *and* how full they may be
   
-  [**FAFSA**](https://studentaid.ed.gov/sa/fafsa) - Sign up for FAFSA at studentaid.ed.gov.
+  [**FAFSA**](https://studentaid.ed.gov/sa/fafsa) - Sign up for FAFSA at studentaid.ed.gov
   
-  [**LBCC Scholarships**](https://linnbenton.academicworks.com/) - Scholarships offered through LBCC.
+  [**LBCC Scholarships**](https://linnbenton.academicworks.com/) - Scholarships offered through LBCC
   
-  [**OSAC - Office of Student Access and Completion**](https://oregonstudentaid.gov/) - Apply for grants and scholarships through oregonstudentaid.gov.
+  [**OSAC - Office of Student Access and Completion**](https://oregonstudentaid.gov/) - Apply for grants and scholarships through oregonstudentaid.gov
 
 ## Software and Services
-  **Microsoft Azure for Students:**  Provides access to Azure and many Microsoft software packages.
+  ### **Microsoft Office 365 Education**
+  >https://www.microsoft.com/en-us/education/products/office
+  
+  - Outlook
+  - Word
+  - Excel
+  - Powerpoint
+  - One Note
+  - Teams
+  - Publisher
+  - Access
+  
+  **One Drive:**
+  - 1TB Storage
+  
+  ### **Microsoft Azure:**  Provides access to Azure and many Microsoft software packages.
  >https://azure.microsoft.com/en-us/free/students/
  
  >After login: search for eduction, then select software
@@ -28,4 +43,10 @@
  - System Center 2016 Operations Manager
  - ***And much more***
  
+### **JetBrains:**  Software Integrated Development Environments (IDE)
+>https://www.jetbrains.com/student/
 
+- PyCharm - Python and DJango
+- IntelliJ IDEA Ultimate - Java
+- WebStorm - JavaScript
+- ***And much more***
