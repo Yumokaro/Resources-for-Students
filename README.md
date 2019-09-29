@@ -14,6 +14,8 @@
   **Microsoft Azure for Students:**  Provides access to Azure and many Microsoft software packages.
  >https://azure.microsoft.com/en-us/free/students/
  
+ >After login: search for eduction, then select software
+  
  - **Windows 10 Education** (*Complete feature-set of Windows OS*)
  - Windows 8.1 Professional
  - Windows Server 2019
@@ -24,3 +26,5 @@
  - SQL Server 2016 Enterprise
  - System Center 2016 Operations Manager
  - ***And much more***
+ 
+
