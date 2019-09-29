@@ -78,6 +78,24 @@ Manage classes and projects
 
 
 
+## Coding
+  ### **Code Wars**: https://www.codewars.com/
+  
+  ### **Free Code Camp**: https://www.freecodecamp.org/
+  
+  ### **W3Schools**: https://www.w3schools.com/default.asp
+  
+  ### **Mozilla Developer Network**: https://developer.mozilla.org/en-US/
+  
+  ### **The Odin Project**: https://www.theodinproject.com/
+  
+  ### **Hacker Rank**: https://www.hackerrank.com/
+  
+  
+  
+
+
+
 ## Books
 
 [Automate the Boring Stuff](https://automatetheboringstuff.com/) - Mostly Python related
@@ -156,6 +174,11 @@ Free online courses
 Free online courses through Harvard University
 >https://online-learning.harvard.edu/
 
+### **MIT OpenCourseWare**
+Free online courses
+>https://ocw.mit.edu/index.htm
+
+
 
 ## Misc
 [Open Oregon Educational Resources](https://openoregon.org/resources/) - Several classes and materials
@@ -172,3 +195,8 @@ Free online courses through Harvard University
 
 [University Courses](https://www.freecodecamp.org/news/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57/) - List of online courses by universities
 
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/#gettingstarted) - Hacktoberfest: Every October, contribute to open source projects on GitHub and receive a free T-Shirt
+
+[Cisco Meraki](https://meraki.cisco.com/tc/freeap) - Free Access Point from Cisco.  Must watch 1-hr webinar
+
+[Cambium Networks](https://www.cambiumnetworks.com/cnpilot-free-ap/) - Free Access Point from Cambium Networks
