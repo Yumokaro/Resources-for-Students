@@ -96,7 +96,9 @@ Manage classes and projects
 
 ## Misc
 [Open Oregon Educational Resources](https://openoregon.org/resources/) - Several classes and materials
+
 [Free for Students](https://freeforstudents.org/) - Misc. resources for free services
 
 [Reddit: Learn Programming](https://www.reddit.com/r/learnprogramming/) - learnprogramming subreddit
+
 [Reddit: Network Security Students](https://www.reddit.com/r/netsecstudents/) - netsecstudents subreddit
