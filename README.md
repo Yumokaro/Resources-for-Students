@@ -27,7 +27,8 @@
   **One Drive:**
   - 1TB Storage
   
-  ### **Microsoft Azure:**  Provides access to Azure and many Microsoft software packages.
+  ### **Microsoft Azure:**  
+  Provides access to Azure and many Microsoft software packages.
  >https://azure.microsoft.com/en-us/free/students/
  
  >After login: search for eduction, then select software
@@ -43,10 +44,21 @@
  - System Center 2016 Operations Manager
  - ***And much more***
  
-### **JetBrains:**  Software Integrated Development Environments (IDE)
+### **JetBrains:**  
+Software Integrated Development Environments (IDE)
 >https://www.jetbrains.com/student/
 
 - PyCharm - Python and DJango
 - IntelliJ IDEA Ultimate - Java
 - WebStorm - JavaScript
 - ***And much more***
+
+### **AutoDesk:**
+>https://www.autodesk.com/education/free-software/featured
+
+- Fusion 360
+- AutoCAD
+- 3DS Max
+- Maya
+- ***And much more***
+
