@@ -53,6 +53,10 @@ Software Integrated Development Environments (IDE)
 - WebStorm - JavaScript
 - ***And much more***
 
+### **GitHub**
+Student Developer Pack
+>https://education.github.com/
+
 ### **AutoDesk:**
 >https://www.autodesk.com/education/free-software/featured
 
@@ -63,7 +67,16 @@ Software Integrated Development Environments (IDE)
 - ***And much more***
 
 ### **Amazon Web Services:**
+Access to the AWS cloud, free training, and collaboration resources
 >https://aws.amazon.com/education/awseducate/
+
+### **Namecheap**
+One free domain for a website
+>https://nc.me/
+
+### **BaseCamp**
+Manage classes and projects
+>https://basecamp.com/discounts
 
 
 
@@ -83,3 +96,4 @@ Software Integrated Development Environments (IDE)
 
 ## Misc
 [Open Oregon Educational Resources](https://openoregon.org/resources/) - Several classes and materials
+[Free for Students](https://freeforstudents.org/) - Misc. resources for free services
