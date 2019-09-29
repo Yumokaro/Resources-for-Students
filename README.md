@@ -1,14 +1,11 @@
 # Resources-for-Students
 
 ## School
-  **CS Programs of Study:**
-  [CS Programs of Study](https://www.linnbenton.edu/future-students/programs-of-study/science-engineering-and-math/computer-science.php#/)
+  [**CS Programs of Study**](https://www.linnbenton.edu/future-students/programs-of-study/science-engineering-and-math/computer-science.php#/) - View an interactive coursemap related to a CS Major
 
-  **Schedule of Classes:**
-  >https://www.linnbenton.edu/schedule-of-classes/
+  [**Schedule of Classes**](https://www.linnbenton.edu/schedule-of-classes/) - View classes for the current quarter *and* how full they may be.
   
-  **LBCC Scholarships:**
-  >https://linnbenton.academicworks.com/
+  [**LBCC Scholarships**](https://linnbenton.academicworks.com/) - Scholarships offered through LBCC.
 
 ## Software and Services
   **Microsoft Azure for Students:**  Provides access to Azure and many Microsoft software packages.
