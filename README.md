@@ -5,9 +5,11 @@
 
   [**Schedule of Classes**](https://www.linnbenton.edu/schedule-of-classes/) - View classes for the current quarter *and* how full they may be.
   
+  [**FASFA**](https://studentaid.ed.gov/sa/fafsa) - Sign up for FASFA at studentaid.ed.gov.
+  
   [**LBCC Scholarships**](https://linnbenton.academicworks.com/) - Scholarships offered through LBCC.
   
-  [**OSAC - Office of Student Access and Completion**](https://oregonstudentaid.gov/) - Apply for grants and scholarships through oregonstudentaid.gov
+  [**OSAC - Office of Student Access and Completion**](https://oregonstudentaid.gov/) - Apply for grants and scholarships through oregonstudentaid.gov.
 
 ## Software and Services
   **Microsoft Azure for Students:**  Provides access to Azure and many Microsoft software packages.
