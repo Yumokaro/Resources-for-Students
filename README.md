@@ -5,7 +5,7 @@
 
   [**Schedule of Classes**](https://www.linnbenton.edu/schedule-of-classes/) - View classes for the current quarter *and* how full they may be.
   
-  [**FASFA**](https://studentaid.ed.gov/sa/fafsa) - Sign up for FASFA at studentaid.ed.gov.
+  [**FAFSA**](https://studentaid.ed.gov/sa/fafsa) - Sign up for FAFSA at studentaid.ed.gov.
   
   [**LBCC Scholarships**](https://linnbenton.academicworks.com/) - Scholarships offered through LBCC.
   
