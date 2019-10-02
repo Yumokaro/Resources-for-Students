@@ -7,6 +7,8 @@
   
   [**FAFSA**](https://studentaid.ed.gov/sa/fafsa) - Sign up for FAFSA at studentaid.ed.gov
   
+  [**FSEOG**](https://studentaid.ed.gov/sa/types/grants-scholarships/fseog) - Federal Supplemental Educational Opportunity Grant.  Inquire with student aid office
+  
   [**LBCC Scholarships**](https://linnbenton.academicworks.com/) - Scholarships offered through LBCC
   
   [**OSAC - Office of Student Access and Completion**](https://oregonstudentaid.gov/) - Apply for grants and scholarships through oregonstudentaid.gov
