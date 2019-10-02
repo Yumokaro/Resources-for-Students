@@ -78,6 +78,10 @@ Manage classes and projects
 Access to the AWS cloud, free training, and collaboration resources
 >https://aws.amazon.com/education/awseducate/
 
+### **Travis CI**
+Sync with GitHub repositories to assist with building code
+>https://education.travis-ci.com/
+
 
 
 ## Coding
