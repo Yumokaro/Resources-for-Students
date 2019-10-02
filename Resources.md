@@ -61,6 +61,10 @@ Student Developer Pack
 
 [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) - GitHub git tutorial
 
+### **Travis CI**
+Sync with GitHub repositories to assist with building code
+>https://education.travis-ci.com/
+
 ### **BaseCamp**
 Manage classes and projects
 >https://basecamp.com/discounts
@@ -77,10 +81,6 @@ Manage classes and projects
 ### **Amazon Web Services:**
 Access to the AWS cloud, free training, and collaboration resources
 >https://aws.amazon.com/education/awseducate/
-
-### **Travis CI**
-Sync with GitHub repositories to assist with building code
->https://education.travis-ci.com/
 
 
 
